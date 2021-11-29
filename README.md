@@ -15,9 +15,9 @@ The three TXT files contain the modernised versions of the texts. These are the 
 The CSV file contain the metrics from NILC-Metrix for all TXT files, with the addition of a Category column, which indicates whether the metric was used or not, and how it was interpreted. Here is a description for what can be found in each column of the CSV file:
 
 - ID: indicates a unique id for the metric.
-- Group: indicates to which group of metrics to which the specific metric belongs.
+- Group: indicates to which group of metrics to which the specific metric belongs. The group name is in Portuguese, as provided by NILC-Metrix.
 - Metric: indicates a unique name for the metric.
-- Description: Gives a brief description of what the metric evaluates in the text.
+- Description: Gives a brief description of what the metric evaluates in the text. The description is in Portuguese, as provided by NILC-Metrix.
 - Gazetas: contains the metrics for the file "Gazetas-MOD-PAD-NILC-Metrix.txt" 
 - Semedo: contains the metrics for the file "Semedo-MOD-PAD-NILC-Metrix.txt"
 - Vieira: contains the metrics for the file "Vieira-MOD-PAD-NILC-Metrix.txt"
