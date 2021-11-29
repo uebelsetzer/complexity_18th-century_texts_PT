@@ -10,7 +10,7 @@ This repository contains the following files:
 	- Gazetas-Semedo-Vieira-NILC-Metrix.csv
 
 ## Description of the content
-The three TXT files contain the modernized versions of the texts. These are the files that were used to get complexity metrics using NILC-Metrix.
+The three TXT files contain the modernised versions of the texts. These are the files that were used to get complexity metrics using NILC-Metrix.
 
 The CSV file contain the metrics from NILC-Metrix for all TXT files, with the addition of a Category column, which indicates whether the metric was used or not, and how it was interpreted. Here is a description for what can be found in each column of the CSV file:
 
