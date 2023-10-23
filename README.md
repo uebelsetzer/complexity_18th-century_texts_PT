@@ -1,5 +1,5 @@
-# Supplementary Materials: A Natural Language Processing Approach to Complexity Assessment of 18th-century Health Literature
-This is a repository with the supplementary materials for the paper: Zilio et al. (2024). "A Natural Language Processing Approach to Complexity Assessment of 18th-century Health Literature".
+# A Natural Language Processing Approach to Complexity Assessment of 18th-century Health Literature
+This is a repository with data that was used in the paper: Zilio et al. (2024). "A Natural Language Processing Approach to Complexity Assessment of 18th-century Health Literature". Domínios de Lingu@agem.
 
 ## Content of the repository
 This repository contains the following files:
