@@ -1,5 +1,5 @@
-# Supplementary Materials: A Natural Language Processing Approach to Complexity Assessment in Ancient Health Literature
-This is a repository with the supplementary materials for the paper: Quaresma et al. (to appear). "A Natural Language Processing Approach to Complexity Assessment in Ancient Health Literature".
+# Supplementary Materials: A Natural Language Processing Approach to Complexity Assessment of 18th-century Health Literature
+This is a repository with the supplementary materials for the paper: Zilio et al. (2024). "A Natural Language Processing Approach to Complexity Assessment of 18th-century Health Literature".
 
 ## Content of the repository
 This repository contains the following files:
