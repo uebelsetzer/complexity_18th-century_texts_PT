@@ -1,5 +1,5 @@
 # A Natural Language Processing Approach to Complexity Assessment of 18th-century Health Literature
-This is a repository with data that was used in the paper: Zilio et al. (2024). "A Natural Language Processing Approach to Complexity Assessment of 18th-century Health Literature". Domínios de Lingu@agem.
+This is a repository with data that was used in the paper: Zilio et al. (2023). "A Natural Language Processing Approach to Complexity Assessment of 18th-century Health Literature". Domínios de Lingu@agem, v. 17. [PDF](https://seer.ufu.br/index.php/dominiosdelinguagem/article/view/69775/37166)
 
 ## Content of the repository
 This repository contains the following files:
