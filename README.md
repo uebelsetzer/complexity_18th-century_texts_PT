@@ -25,3 +25,17 @@ The CSV file contain the metrics from NILC-Metrix for all TXT files, with the ad
 	- S: the metric was used, and the higher the value, the more complex is the text.
 	- I: the metric was used, and the higher the value, the less complex is the text.
 	- X: the metric was not used.
+
+## Paper
+```
+@article{zilio2022named,
+  title={A Natural Language Processing Approach to Complexity Assessment of 18th-century Health Literature},
+  author={Zilio, Leonardo and Finatto, Maria Jos{\'e} Bocorny and Vieira, Renata and Quaresma, Paulo},
+  book={Dom{\'i}nios de Lingu@gem},
+  volume={17},
+  year={2023},
+  publisher={UFU},
+  url={https://seer.ufu.br/index.php/dominiosdelinguagem/article/view/69775/37166}
+}
+
+```
